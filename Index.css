@@ -1,0 +1,8 @@
+.counter{
+    display: flex;
+    justify-content: center;
+    background-color: violet;
+    padding: 1rem;
+    font-weight: bold;
+    font-size: xxx-large;
+}
